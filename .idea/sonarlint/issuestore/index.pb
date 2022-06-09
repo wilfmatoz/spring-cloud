@@ -1,8 +1,6 @@
 
 f
 6bike-service/src/main/resources/application.properties,6\c\6c48564ba5218c335f82df00465067b2f17d6b56
-s
-Cbike-service/src/main/java/com/bike/app/BikeServiceApplication.java,f\4\f482a0b7131c3ec2261a218161c37a0515645eb3
 m
 =car-service/src/main/java/com/car/app/service/CarService.java,e\b\ebf568824910e8349b0260db4e6a86c30fe909e0
 b
@@ -25,8 +23,6 @@ h
 8bike-service/src/main/java/com/bike/app/entity/Bike.java,1\f\1f812b45d345cbd305ae82b43651a23f3b14fa00
 F
 car-service/.gitignore,f\4\f4036f9a485cfaed4795b80f55ccc8e912946d07
-s
-Cuser-service/src/main/java/com/user/app/UserServiceApplication.java,8\2\82f5b129b0affb4dfc05d774585a6b38a65cacad
 f
 6user-service/src/main/resources/application.properties,a\b\abd22621d482309884be935bff1fa3dc406a05f7
 @
@@ -45,8 +41,6 @@ b
 2user-service/.mvn/wrapper/maven-wrapper.properties,f\d\fd817777f2a40d7236ee88d3806c79f144e7062b
 D
 car-service/mvnw.cmd,b\6\b6a5319dae4fb5dfa44b8b787f820f385d73158e
-p
-@car-service/src/main/java/com/car/app/CarServiceApplication.java,6\5\65ee500c2e421bdfc5864933410bfcd1b20a8060
 e
 5car-service/src/main/resources/application.properties,3\c\3cafacfa6e715e9796e11cbde4c1f19a5caa095a
 g
