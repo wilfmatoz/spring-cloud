@@ -13,7 +13,6 @@ import org.springframework.web.client.RestTemplate;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.Objects;
 
 @Service
 @RequiredArgsConstructor
@@ -37,11 +36,11 @@ public class UserService {
     }
 
     public List<Car> getCars(Integer userId) {
-        return restTemplate.getForObject("http://localhost:8002/car/byuser/" + userId, List.class);
+        return restTemplate.getForObject("http://car-service/car/byuser/" + userId, List.class);
     }
 
     public List<Bike> getBikes(Integer userId) {
-        return restTemplate.getForObject("http://localhost:8003/bike/byuser/" + userId, List.class);
+        return restTemplate.getForObject("http://bike-service/bike/byuser/" + userId, List.class);
     }
 
     public Car saveCar(Integer userId, Car car) {

@@ -35,8 +35,6 @@ v
 Fbike-service/src/main/java/com/bike/app/repository/BikeRepository.java,3\6\36192cb8164f3d4db245901d6d9a6fa7e107829e
 x
 Huser-service/src/test/java/com/user/app/UserServiceApplicationTests.java,3\c\3c298a6cdcea8025e3c2cad60c121e94a0a039eb
-v
-Fuser-service/src/main/java/com/user/app/config/RestTemplateConfig.java,f\5\f51f57e37dbbe9d61769cefa32894efdff41bf0b
 b
 2user-service/.mvn/wrapper/maven-wrapper.properties,f\d\fd817777f2a40d7236ee88d3806c79f144e7062b
 D
