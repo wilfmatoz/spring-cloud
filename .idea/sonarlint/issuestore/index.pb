@@ -15,14 +15,8 @@ s
 Ccar-service/src/main/java/com/car/app/repository/CarRepository.java,8\e\8ee48a115eb34570193724d3509dcfd3d903352f
 x
 Hbike-service/src/test/java/com/bike/app/BikeServiceApplicationTests.java,b\a\bae10b36acf0d39ad890e5188b648fd44d21964d
-D
-bike-service/pom.xml,9\0\90c5e699f07c42ce05408b77cf6086f9fc52c76d
 E
 user-service/mvnw.cmd,e\d\eda2bd952f4d039d023d0a1fd4078ed43ba86d69
-D
-user-service/pom.xml,d\2\d2f5d1978e5f519100a679c4109f89296278badc
-C
-car-service/pom.xml,6\2\6256a4f3129d371804d77c47558829b089b63c1f
 G
 user-service/.gitignore,8\f\8fb4a2885731e1b858b46663b1d1abc16602014b
 A
